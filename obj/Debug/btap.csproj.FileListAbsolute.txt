@@ -1,0 +1,9 @@
+D:\C3\btap\bin\Debug\btap.exe.config
+D:\C3\btap\bin\Debug\btap.exe
+D:\C3\btap\bin\Debug\btap.pdb
+D:\C3\btap\obj\Debug\btap.csproj.AssemblyReference.cache
+D:\C3\btap\obj\Debug\btap.Properties.Resources.resources
+D:\C3\btap\obj\Debug\btap.csproj.GenerateResource.cache
+D:\C3\btap\obj\Debug\btap.csproj.CoreCompileInputs.cache
+D:\C3\btap\obj\Debug\btap.exe
+D:\C3\btap\obj\Debug\btap.pdb
